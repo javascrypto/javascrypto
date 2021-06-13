@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @javascrypto
+- 👀 I’m interested in javascript, solidity, golang, rust
+- 💞️ I’m looking to collaborate on crypto projects
+- 📫 Reach me on twitter.com/@javascrypto
